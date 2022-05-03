@@ -1,0 +1,1 @@
+print("this is assignment 1 from mustansir")
